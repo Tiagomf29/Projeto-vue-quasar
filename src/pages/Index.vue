@@ -13,7 +13,7 @@ export default defineComponent({
 </script>
 <style scoped>
   h3{
-    color: blue;
+    color: white;
     font-weight: bolder;
     text-decoration: underline;
   }
